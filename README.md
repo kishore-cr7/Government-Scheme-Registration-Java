@@ -28,8 +28,6 @@ The **Government Scheme Registration System** is a desktop application designed 
 - **Scheme Providers** can manage scheme details, view registered users, and update scheme information.
 - **Admins** have full control over user management, scheme management, application approval/rejection, and provider oversight.
 
-The application is themed around the **Digital India** initiative and is branded with the tagline:  
-*"Powered by Digital India Corporation (DIC), Ministry of Electronics & IT (MeitY), Government of India®"*
 
 ---
 
@@ -314,9 +312,6 @@ java -jar dist/GSR.jar
 
 ---
 
-## 📝 License
-
-This project is developed for academic/educational purposes as part of a **Software Engineering** course.
 
 ---
 
